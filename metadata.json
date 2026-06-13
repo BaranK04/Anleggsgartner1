@@ -1,0 +1,8 @@
+{
+  "name": "Anleggsgartner 1",
+  "description": "Profesjonell landskapsentreprenor og anleggsgartner-portal med AI-assistent og bookingsystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
